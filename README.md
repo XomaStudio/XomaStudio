@@ -2,8 +2,13 @@
   <img src="https://github.com/XomaStudio.png" width="130" alt="Xoma Studio logo" />
 </p>
 
-<h1 align="center">Xoma Studio</h1>
-<h3 align="center">Software para restaurantes y soluciones de tecnología en El Salvador 🇸🇻</h3>
+<h1 align="center">¡Hola! Somos Xoma Studio 👋</h1>
+<h3 align="center">Software para restaurantes y soluciones de tecnología desde El Salvador 🇸🇻</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E53935&center=true&vCenter=true&width=720&lines=Xoma+POS+%E2%80%94+punto+de+venta+para+restaurantes;Instalaci%C3%B3n+de+redes+y+cableado+estructurado;Tablets%2C+UPS+y+equipos+para+tu+negocio;Soporte+t%C3%A9cnico+en+sitio+en+El+Salvador;S%C3%ADguenos+como+%40xomastudio" alt="Xoma Studio" />
+</p>
+
 <p align="center"><b>@xomastudio</b> en todas nuestras redes</p>
 
 <p align="center">
